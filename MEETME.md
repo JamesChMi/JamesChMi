@@ -1,3 +1,5 @@
+// I recommend you to put this code in p5.js
+
 let y = 0;
 let colors = [];
 let currentInfo = 0;
